@@ -1,5 +1,5 @@
 a = 5
 b = 7
-
-c = a + b
+d = 4
+c = a + b + d
 print(c)
